@@ -1,8 +1,11 @@
 # lation_towing
 
-[![Release](https://img.shields.io/github/v/release/Gareb-Fivem-Dev/lation_towing?sort=semver)](https://github.com/Gareb-Fivem-Dev/lation_towing/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Gareb-Fivem-Dev/lation_towing?sort=semver&display_name=tag&label=latest%20release)](https://github.com/Gareb-Fivem-Dev/lation_towing/releases/latest)
 [![Changelog](https://img.shields.io/badge/Changelog-1.1-blue.svg)](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/CHANGELOG.md)
 [![Release Notes](https://img.shields.io/badge/Release%20Notes-v1.1-brightgreen.svg)](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/RELEASE_NOTES_1.1.md)
+[![Downloads](https://img.shields.io/github/downloads/Gareb-Fivem-Dev/lation_towing/total?label=downloads)](https://github.com/Gareb-Fivem-Dev/lation_towing/releases)
+[![Stars](https://img.shields.io/github/stars/Gareb-Fivem-Dev/lation_towing?style=social)](https://github.com/Gareb-Fivem-Dev/lation_towing/stargazers)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/LICENSE)
 
 Advanced towing job for QBCore/QBox with optional group play (slrn_groups) and immersive vehicle repair tasks.
 
