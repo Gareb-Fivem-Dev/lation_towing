@@ -1,15 +1,20 @@
 # lation_towing
 
-[![Changelog](https://img.shields.io/badge/Changelog-1.1-blue.svg)](CHANGELOG.md)
-[![Release Notes](https://img.shields.io/badge/Release%20Notes-v1.1-brightgreen.svg)](RELEASE_NOTES_1.1.md)
+[![Release](https://img.shields.io/github/v/release/Gareb-Fivem-Dev/lation_towing?sort=semver)](https://github.com/Gareb-Fivem-Dev/lation_towing/releases)
+[![Changelog](https://img.shields.io/badge/Changelog-1.1-blue.svg)](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/CHANGELOG.md)
+[![Release Notes](https://img.shields.io/badge/Release%20Notes-v1.1-brightgreen.svg)](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/RELEASE_NOTES_1.1.md)
 
 Advanced towing job for QBCore/QBox with optional group play (slrn_groups) and immersive vehicle repair tasks.
-
-• See also: [Changelog](CHANGELOG.md)
 
 ## Overview
 
 lation_towing adds a clock-in towing job where players receive random pickup locations, tow vehicles to a depot, and get paid. Optional integration with slrn_groups lets groups take the job together and share payouts. Vehicles can spawn with random issues that must be inspected and repaired before delivery, with optional item requirements/consumption.
+
+## Releases
+
+- Latest: v1.1 — https://github.com/Gareb-Fivem-Dev/lation_towing/releases/tag/v1.1
+- Full list: https://github.com/Gareb-Fivem-Dev/lation_towing/releases
+- Notes: see [RELEASE_NOTES_1.1.md](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/RELEASE_NOTES_1.1.md) and [CHANGELOG.md](https://github.com/Gareb-Fivem-Dev/lation_towing/blob/main/CHANGELOG.md)
 
 ## Features
 
@@ -272,6 +277,10 @@ Flip these in `config.lua` as needed:
 ## License
 
 See LICENSE.
+
+## Credits
+
+- Built upon the upstream project by IamLation (baseline v1.0.3): https://github.com/IamLation/lation_towing
 
 ## Required Items (examples)
 
