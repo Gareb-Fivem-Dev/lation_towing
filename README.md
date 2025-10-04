@@ -316,7 +316,7 @@ Config.Debug.client.radialMenu = true -- Specific debug categories
 - **Lation Scripts** - Original towing job concept and base code
 - [Discord](https://discord.gg/9EbY4nM5uu) | [Store](https://lationscripts.com/?utm_source=github&utm_medium=free-script)
 
-### Enhanced Edition - Gareb - Torrid Toleplay
+### Enhanced Edition - Gareb - Torrid Roleplay
 
 - Complete rewrite with 6x more features and functionality
 - Advanced disability system with realistic vehicle repairs
